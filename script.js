@@ -1,4 +1,3 @@
-JavaScript
 // Espera o documento carregar antes de rodar o script
 document.addEventListener('DOMContentLoaded', function() {
 // Pega o botão pelo ID
